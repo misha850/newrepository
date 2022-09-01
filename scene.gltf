@@ -1,0 +1,388 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 28386,
+      "max": [
+        9.482590675354004,
+        22.25811195373535,
+        8.954936981201172
+      ],
+      "min": [
+        -8.620024681091309,
+        9.556159973144531,
+        -3.808300018310547
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 340632,
+      "componentType": 5126,
+      "count": 28386,
+      "max": [
+        0.9998795390129089,
+        0.9998711347579956,
+        0.9999998211860657
+      ],
+      "min": [
+        -0.9999985694885254,
+        -0.9997749924659729,
+        -0.9998440742492676
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 28386,
+      "max": [
+        0.9999989867210388,
+        0.9999809861183167
+      ],
+      "min": [
+        9.999999747378752e-05,
+        3.000000106112566e-06
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 94932,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 681264,
+      "componentType": 5126,
+      "count": 29237,
+      "max": [
+        8.863094329833984,
+        21.967811584472656,
+        8.865333557128906
+      ],
+      "min": [
+        -8.042670249938965,
+        9.015380859375,
+        -3.7517499923706055
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1032108,
+      "componentType": 5126,
+      "count": 29237,
+      "max": [
+        0.9999737739562988,
+        0.9999858736991882,
+        0.9999988079071045
+      ],
+      "min": [
+        -0.9999624490737915,
+        -0.9999391436576843,
+        -0.9999653100967407
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 227088,
+      "componentType": 5126,
+      "count": 29237,
+      "max": [
+        1.9994640350341797,
+        0.9999759793281555
+      ],
+      "min": [
+        1.0000640153884888,
+        3.7999998312443495e-05
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 379728,
+      "componentType": 5125,
+      "count": 98814,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1382952,
+      "componentType": 5126,
+      "count": 33505,
+      "max": [
+        9.972103118896484,
+        21.782169342041016,
+        8.921186447143555
+      ],
+      "min": [
+        -8.653162002563477,
+        8.510162353515625,
+        -3.723939895629883
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1785012,
+      "componentType": 5126,
+      "count": 33505,
+      "max": [
+        0.9999626874923706,
+        0.9998317360877991,
+        0.9999881386756897
+      ],
+      "min": [
+        -0.999982476234436,
+        -0.999482274055481,
+        -0.9999057650566101
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 460984,
+      "componentType": 5126,
+      "count": 33505,
+      "max": [
+        2.9987709522247314,
+        0.9999430179595947
+      ],
+      "min": [
+        2.0000219345092773,
+        9.500000305706635e-05
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 774984,
+      "componentType": 5125,
+      "count": 108354,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Mikhail Volkov (https://sketchfab.com/mgv)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/church-of-resurrection-of-lazarus-kizhi-island-e0dac10c232044e7baef110f16226b10",
+      "title": "Church of resurrection of Lazarus, Kizhi island"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1208400,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 729024,
+      "byteOffset": 1208400,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2187072,
+      "byteOffset": 1937424,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 4124496,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "images": [
+    {
+      "uri": "textures/Lazars-Church-100k.1001_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Lazars-Church-100k.1002_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Lazars-Church-100k.1003_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "Lazars-Church-100k.1001",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "Lazars-Church-100k.1002",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "Lazars-Church-100k.1003",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.6613466681900171,
+        0.003680600250965763,
+        0.21067574510882814,
+        0.0,
+        0.20990856920688472,
+        0.0488836336564337,
+        -0.6597924166040592,
+        0.0,
+        -0.01833596974651408,
+        0.6923684425977683,
+        0.04546371027232003,
+        0.0,
+        -4.553332805633545,
+        -1.080533146858215,
+        -1.1291705369949343,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3,
+        4
+      ],
+      "name": "Lazar's-Church-100k.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_4"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
